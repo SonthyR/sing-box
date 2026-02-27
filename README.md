@@ -1,6 +1,6 @@
-
+```
 bash <(wget -qO- -o- https://github.com/SonthyR/sing-box/raw/main/install.sh)
-
+```
 
 
 
