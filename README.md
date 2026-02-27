@@ -1,5 +1,5 @@
 
-bash <(wget -qO- -o- https://github.com/233boy/sing-box/raw/main/install.sh)
+bash <(wget -qO- -o- https://github.com/SonthyR/sing-box/raw/main/install.sh)
 
 
 
